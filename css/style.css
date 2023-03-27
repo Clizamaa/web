@@ -768,6 +768,15 @@ ul.top-links.two.three li a i.fa:hover{
     color: #999999;
 	font-size: 14px;
 }
+
+.agileinfo_contact_grid_list_rrss li {
+    display: inline;
+    list-style-type: none;
+    margin-bottom: 1em;
+    color: #999999;
+	font-size: 14px;
+}
+
 .agileinfo_contact_grid_list li a {
 	color: #999999;
 	font-size: 14px;
